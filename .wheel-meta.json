@@ -1,0 +1,22 @@
+{
+  "wheel_id": 524,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-106",
+  "project": "retaining-walls-canberra-red-flags-9a4a5098ef7aa8da69df013c814d",
+  "parent_t1_ref": "retainingwallscanberra-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining walls canberra red flags",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-canberra-red-flags-9a4a5098ef7aa8da69df013c814d/",
+  "tier": "T2",
+  "writeback_nonce": "b92ee1119a19dc90",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-canberra-beginner-guide-66b15f52f073cfa310873a6/",
+      "anchor": "Retaining Walls Canberra Beginner Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
